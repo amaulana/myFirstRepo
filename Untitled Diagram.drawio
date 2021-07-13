@@ -1,1 +1,140 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T06:27:06.757Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" version="14.8.6" etag="ePQczHnoJf0T_AbCJEH8" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-13T07:51:19.270Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="Cq8Ypg3j-ZwkjHqLzclw" version="14.8.6" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1394" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-3" value="Job Platform data (jobs.id)&amp;nbsp;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;j&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="50" width="60" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-9" value="Skills&lt;br&gt;(.ie. excel, corral draw)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-11" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; text-decoration: none ; display: inline ; float: none&quot;&gt;Job desc&lt;br&gt;(i.e mampu melakukan analisa data Penjualan)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="111" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-12" value="Job req &lt;br&gt;(i.e education, age, )" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="160" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-13" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="669" y="200" as="sourcePoint" />
+            <mxPoint x="669" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-15" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="200" as="sourcePoint" />
+            <mxPoint x="810" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-16" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="200" as="sourcePoint" />
+            <mxPoint x="810" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-17" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="40" as="sourcePoint" />
+            <mxPoint x="810" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-18" value="" style="endArrow=none;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="621" y="120" as="sourcePoint" />
+            <mxPoint x="670" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-19" value="Data Prakerja&amp;nbsp;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;i&gt;i&lt;/i&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="241" y="51" width="60" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-20" value="Skills - level 5 tagging&lt;br&gt;(.ie. excel, corral draw)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="70" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-21" value="user details&amp;nbsp;&lt;br&gt;(i.e las education, age )" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="171" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VSqKxr2_FAWWL_1MWRcu-22" target="VSqKxr2_FAWWL_1MWRcu-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-22" value="kompetensi - level 4 tagging&lt;br&gt;(.ie. dasar pengolahan data)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="121" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-24" value="S(2) &lt;br&gt;check user and job requirement&amp;nbsp;&lt;br&gt;Use formula in the eq (3)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="334" y="390" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-25" value="S(1) &lt;br&gt;compute similarity between skills dr prakerja dan skills dari job&lt;br&gt;(cosine)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="400" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-43" value="Gather data from prakerja and job platform" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-45" value="S(1) = S*(1)&lt;br&gt;s*(1) &amp;gt; 0 and S*(1)&amp;lt; 1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="847.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-46" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VSqKxr2_FAWWL_1MWRcu-25" target="VSqKxr2_FAWWL_1MWRcu-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="390" as="sourcePoint" />
+            <mxPoint x="370" y="340" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-49" value="user &lt;b&gt;check&lt;/b&gt;, &lt;br&gt;job req &lt;b&gt;check&lt;/b&gt;&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="364" y="585" width="100" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-50" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VSqKxr2_FAWWL_1MWRcu-49" target="VSqKxr2_FAWWL_1MWRcu-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="570" as="sourcePoint" />
+            <mxPoint x="480" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-54" value="S(2) = 1,&amp;nbsp;&lt;br&gt;Both aspects are OK" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="842.5" width="77.5" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-57" value="S(2) = 1/2,&amp;nbsp;&lt;br&gt;only one aspect OK, the other is not" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="375.75" y="844.5" width="75.5" height="75.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-59" value="S(2) = 0,&amp;nbsp;&lt;br&gt;Both are not OK" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="839.5" width="80.5" height="80.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-60" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="847.5" width="80" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-62" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VSqKxr2_FAWWL_1MWRcu-49" target="VSqKxr2_FAWWL_1MWRcu-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="680" as="sourcePoint" />
+            <mxPoint x="600" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-63" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VSqKxr2_FAWWL_1MWRcu-49" target="VSqKxr2_FAWWL_1MWRcu-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="680" as="sourcePoint" />
+            <mxPoint x="390" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-64" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VSqKxr2_FAWWL_1MWRcu-49" target="VSqKxr2_FAWWL_1MWRcu-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="681.5" as="sourcePoint" />
+            <mxPoint x="496.5" y="828.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-67" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VSqKxr2_FAWWL_1MWRcu-43" target="VSqKxr2_FAWWL_1MWRcu-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="400" as="sourcePoint" />
+            <mxPoint x="130" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VSqKxr2_FAWWL_1MWRcu-69" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;entryX=0.463;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VSqKxr2_FAWWL_1MWRcu-43" target="VSqKxr2_FAWWL_1MWRcu-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="330" as="sourcePoint" />
+            <mxPoint x="120" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
