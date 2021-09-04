@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-04T05:20:01.382Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="ABkF1pdO7_0fg-ZMZafF" version="15.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-04T05:40:26.075Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="K5LpFvFfSoLK5fy1SnAm" version="15.0.6" type="github" pages="3">
   <diagram id="1yJmZetXlnlQOK-NrqrE" name="Page-1">
     <mxGraphModel dx="2821" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -616,14 +616,9 @@
         <mxCell id="9Nzzzi8rX5P6TIIi_tPR-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
           <mxGeometry x="340" y="314" width="50" height="366" as="geometry" />
         </mxCell>
-        <mxCell id="_ZjT-fl3UeIRvDIm7zxC-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1">
+        <mxCell id="_ZjT-fl3UeIRvDIm7zxC-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="9Nzzzi8rX5P6TIIi_tPR-18" target="_ZjT-fl3UeIRvDIm7zxC-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="228" y="527" as="sourcePoint" />
-            <mxPoint x="228" y="755.7142857142858" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="228" y="570" />
-              <mxPoint x="228" y="570" />
-            </Array>
+            <mxPoint x="235" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9Nzzzi8rX5P6TIIi_tPR-18" value="pre-training test&amp;nbsp;&lt;br&gt;(knowledge on the materials at the mobile app)" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
@@ -644,19 +639,14 @@
             <mxPoint x="-290" y="195" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ZjT-fl3UeIRvDIm7zxC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="_ZjT-fl3UeIRvDIm7zxC-5" target="_ZjT-fl3UeIRvDIm7zxC-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="310" y="800" />
-              <mxPoint x="310" y="800" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_ZjT-fl3UeIRvDIm7zxC-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="_ZjT-fl3UeIRvDIm7zxC-5" target="_ZjT-fl3UeIRvDIm7zxC-13">
+        <mxCell id="_ZjT-fl3UeIRvDIm7zxC-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="_ZjT-fl3UeIRvDIm7zxC-5" target="_ZjT-fl3UeIRvDIm7zxC-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_ZjT-fl3UeIRvDIm7zxC-5" value="Start Training delivery" style="rhombus;whiteSpace=wrap;html=1;align=left;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
-          <mxGeometry x="190" y="760" width="78.75" height="80" as="geometry" />
+        <mxCell id="_ZjT-fl3UeIRvDIm7zxC-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="_ZjT-fl3UeIRvDIm7zxC-5" target="_ZjT-fl3UeIRvDIm7zxC-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZjT-fl3UeIRvDIm7zxC-5" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px&quot;&gt;Start Training delivery process&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;align=center;strokeWidth=2;direction=south;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
+          <mxGeometry x="195" y="755" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_ZjT-fl3UeIRvDIm7zxC-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="_ZjT-fl3UeIRvDIm7zxC-9" target="_ZjT-fl3UeIRvDIm7zxC-11">
           <mxGeometry relative="1" as="geometry" />
@@ -667,17 +657,17 @@
         <mxCell id="_ZjT-fl3UeIRvDIm7zxC-11" value="participants conduct training as in status quo (at the providers servers)" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
           <mxGeometry x="830" y="750" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="_ZjT-fl3UeIRvDIm7zxC-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="_ZjT-fl3UeIRvDIm7zxC-13" target="_ZjT-fl3UeIRvDIm7zxC-15">
+        <mxCell id="_ZjT-fl3UeIRvDIm7zxC-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="_ZjT-fl3UeIRvDIm7zxC-13" target="_ZjT-fl3UeIRvDIm7zxC-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_ZjT-fl3UeIRvDIm7zxC-13" value="With offline sections" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
-          <mxGeometry x="169.38" y="880" width="120" height="40" as="geometry" />
+          <mxGeometry x="175" y="870" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_ZjT-fl3UeIRvDIm7zxC-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="_ZjT-fl3UeIRvDIm7zxC-15" target="_ZjT-fl3UeIRvDIm7zxC-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_ZjT-fl3UeIRvDIm7zxC-15" value="Health protocols intro during the sections&amp;nbsp;&lt;br&gt;(in the mobile app)" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
-          <mxGeometry x="160" y="940" width="140" height="40" as="geometry" />
+          <mxGeometry x="165" y="940" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_ZjT-fl3UeIRvDIm7zxC-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="_ZjT-fl3UeIRvDIm7zxC-17" target="_ZjT-fl3UeIRvDIm7zxC-19">
           <mxGeometry relative="1" as="geometry" />
@@ -686,10 +676,17 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_ZjT-fl3UeIRvDIm7zxC-17" value="attendance check&amp;nbsp;&lt;br&gt;(via mobile app)" style="ellipse;whiteSpace=wrap;html=1;align=left;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
-          <mxGeometry x="180" y="1020" width="100" height="60" as="geometry" />
+          <mxGeometry x="185" y="1020" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_ZjT-fl3UeIRvDIm7zxC-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="_ZjT-fl3UeIRvDIm7zxC-19" target="_ZjT-fl3UeIRvDIm7zxC-22">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZjT-fl3UeIRvDIm7zxC-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.008;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="_ZjT-fl3UeIRvDIm7zxC-19" target="_ZjT-fl3UeIRvDIm7zxC-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="1168" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_ZjT-fl3UeIRvDIm7zxC-19" value="Antigen test on regular basis" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
           <mxGeometry x="350" y="1030" width="120" height="40" as="geometry" />
@@ -713,17 +710,23 @@
         <mxCell id="_ZjT-fl3UeIRvDIm7zxC-24" value="All participants in the same class are needed to take PCR test" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
           <mxGeometry x="550" y="910" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_ZjT-fl3UeIRvDIm7zxC-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="_ZjT-fl3UeIRvDIm7zxC-26" target="_ZjT-fl3UeIRvDIm7zxC-31">
+        <mxCell id="_ZjT-fl3UeIRvDIm7zxC-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="_ZjT-fl3UeIRvDIm7zxC-26" target="_ZjT-fl3UeIRvDIm7zxC-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_ZjT-fl3UeIRvDIm7zxC-26" value="positive results, the participants are refereed to local COVID19 task force &amp;amp;&amp;nbsp;&lt;br&gt;a handling manager from org. would be assigned" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
-          <mxGeometry x="830" y="890" width="200" height="80" as="geometry" />
+          <mxGeometry x="800" y="890" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_ZjT-fl3UeIRvDIm7zxC-28" value="" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
-          <mxGeometry x="170" y="1160" width="120" height="60" as="geometry" />
+        <mxCell id="_ZjT-fl3UeIRvDIm7zxC-28" value="Offline training&lt;br&gt;&amp;nbsp;delivery" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
+          <mxGeometry x="175" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZjT-fl3UeIRvDIm7zxC-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.385;entryY=1.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="_ZjT-fl3UeIRvDIm7zxC-31" target="_ZjT-fl3UeIRvDIm7zxC-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_ZjT-fl3UeIRvDIm7zxC-31" value="A care package would be delieved to the participants in the self isolation area" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
-          <mxGeometry x="830" y="1050" width="200" height="80" as="geometry" />
+          <mxGeometry x="800" y="1000" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZjT-fl3UeIRvDIm7zxC-33" value="Ministry of Health &lt;br&gt;Procedure applies" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
+          <mxGeometry x="1080" y="910" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
