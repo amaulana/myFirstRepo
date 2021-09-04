@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-04T05:17:32.999Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="t4RFCQvdL5mEk6M58jhK" version="15.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-04T05:20:01.382Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="ABkF1pdO7_0fg-ZMZafF" version="15.0.6" type="github" pages="3">
   <diagram id="1yJmZetXlnlQOK-NrqrE" name="Page-1">
     <mxGraphModel dx="2821" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -665,7 +665,7 @@
           <mxGeometry x="370" y="780" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_ZjT-fl3UeIRvDIm7zxC-11" value="participants conduct training as in status quo (at the providers servers)" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
-          <mxGeometry x="590" y="770" width="140" height="50" as="geometry" />
+          <mxGeometry x="830" y="750" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_ZjT-fl3UeIRvDIm7zxC-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="_ZjT-fl3UeIRvDIm7zxC-13" target="_ZjT-fl3UeIRvDIm7zxC-15">
           <mxGeometry relative="1" as="geometry" />
