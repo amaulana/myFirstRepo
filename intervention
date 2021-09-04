@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-04T10:51:24.251Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="zL6XpTkiT2JEpOxTVp0P" version="15.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-04T10:57:58.837Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="x2v9WEWpL6dAu3cuuLuW" version="15.0.6" type="github" pages="3">
   <diagram id="1yJmZetXlnlQOK-NrqrE" name="Page-1">
     <mxGraphModel dx="2821" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -696,13 +696,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_ZjT-fl3UeIRvDIm7zxC-24" value="PCR test is needed to confirm" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
-          <mxGeometry x="590" y="910" width="130" height="40" as="geometry" />
+          <mxGeometry x="780" y="910" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_ZjT-fl3UeIRvDIm7zxC-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="_ZjT-fl3UeIRvDIm7zxC-26" target="_ZjT-fl3UeIRvDIm7zxC-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_ZjT-fl3UeIRvDIm7zxC-26" value="positive results, the participants are refereed to local COVID19 task force &amp;amp;&amp;nbsp;&lt;br&gt;a handling manager from org. would be assigned" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
-          <mxGeometry x="920" y="890" width="200" height="80" as="geometry" />
+          <mxGeometry x="969" y="890" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pHFhEMLxa42LamPkkGx1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="_ZjT-fl3UeIRvDIm7zxC-28" target="pHFhEMLxa42LamPkkGx1-2">
           <mxGeometry relative="1" as="geometry" />
@@ -714,10 +714,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_ZjT-fl3UeIRvDIm7zxC-31" value="A care package would be delieved to the participants in the self isolation area" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
-          <mxGeometry x="920" y="1000" width="200" height="80" as="geometry" />
+          <mxGeometry x="969" y="1050" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_ZjT-fl3UeIRvDIm7zxC-33" value="Ministry of Health &lt;br&gt;Procedure applies" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
-          <mxGeometry x="1200" y="890" width="130" height="80" as="geometry" />
+          <mxGeometry x="1270" y="900" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_ZjT-fl3UeIRvDIm7zxC-41" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
           <mxGeometry x="630" y="140" width="40" height="20" as="geometry" />
@@ -780,13 +780,18 @@
         <mxCell id="pHFhEMLxa42LamPkkGx1-9" value="First day end" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
           <mxGeometry x="630" y="1430" width="135" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pHFhEMLxa42LamPkkGx1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="pHFhEMLxa42LamPkkGx1-10" target="pHFhEMLxa42LamPkkGx1-12">
+        <mxCell id="pHFhEMLxa42LamPkkGx1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="pHFhEMLxa42LamPkkGx1-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="1590" as="targetPoint" />
+            <mxPoint x="350" y="1609" as="targetPoint" />
             <Array as="points">
               <mxPoint x="290" y="1635" />
+              <mxPoint x="330" y="1635" />
+              <mxPoint x="330" y="1609" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pHFhEMLxa42LamPkkGx1-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="pHFhEMLxa42LamPkkGx1-10" target="pHFhEMLxa42LamPkkGx1-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pHFhEMLxa42LamPkkGx1-10" value="reminders for the training section &amp;nbsp;&lt;br&gt;(via mobile app)&lt;br&gt;time, schedule, for nth day&lt;br&gt;where n&amp;gt;1" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
           <mxGeometry x="150" y="1400" width="200" height="120" as="geometry" />
@@ -797,13 +802,42 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pHFhEMLxa42LamPkkGx1-12" value="attendance check&lt;br&gt;(via mobile app)" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
-          <mxGeometry x="360" y="1594" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="1594" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pHFhEMLxa42LamPkkGx1-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="pHFhEMLxa42LamPkkGx1-17" target="pHFhEMLxa42LamPkkGx1-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pHFhEMLxa42LamPkkGx1-17" value="participants conduct &lt;br&gt;training at the site&amp;nbsp;&lt;br&gt;(health protocol in place)" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
           <mxGeometry x="600" y="1575" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pHFhEMLxa42LamPkkGx1-20" value="on no antigen &lt;br&gt;test day" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
           <mxGeometry x="330" y="1545" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pHFhEMLxa42LamPkkGx1-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.689;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="pHFhEMLxa42LamPkkGx1-25" target="pHFhEMLxa42LamPkkGx1-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="1767" />
+              <mxPoint x="830" y="1483" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pHFhEMLxa42LamPkkGx1-25" value="End day for (n-th day)" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
+          <mxGeometry x="620" y="1745" width="170" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="pHFhEMLxa42LamPkkGx1-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="pHFhEMLxa42LamPkkGx1-30" target="_ZjT-fl3UeIRvDIm7zxC-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pHFhEMLxa42LamPkkGx1-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="pHFhEMLxa42LamPkkGx1-30" target="pHFhEMLxa42LamPkkGx1-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pHFhEMLxa42LamPkkGx1-30" value="Antigen test&amp;nbsp;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
+          <mxGeometry x="190" y="1870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pHFhEMLxa42LamPkkGx1-38" value="reactive&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
+          <mxGeometry x="450" y="1870" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pHFhEMLxa42LamPkkGx1-40" value="non-reactive&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
+          <mxGeometry x="340" y="1800" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
