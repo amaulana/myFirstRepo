@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-04T11:31:36.374Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="3MuP34AI_mMp19gPBDtv" version="15.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-04T11:39:11.331Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="h0QQmvb1wp0XIffVOfEv" version="15.0.6" type="github" pages="3">
   <diagram id="1yJmZetXlnlQOK-NrqrE" name="Page-1">
-    <mxGraphModel dx="2821" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2821" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -827,6 +827,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="pHFhEMLxa42LamPkkGx1-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="pHFhEMLxa42LamPkkGx1-25" target="pHFhEMLxa42LamPkkGx1-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pHFhEMLxa42LamPkkGx1-25" value="End day for (n-th day)" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
           <mxGeometry x="620" y="1745" width="170" height="45" as="geometry" />
         </mxCell>
@@ -851,6 +854,9 @@
         </mxCell>
         <mxCell id="pHFhEMLxa42LamPkkGx1-44" value="Asymptomatic" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
           <mxGeometry x="1380" y="790" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pHFhEMLxa42LamPkkGx1-45" value="on the last day, post-training test is distributed" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
+          <mxGeometry x="620" y="2010" width="170" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
