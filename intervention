@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-04T10:24:43.612Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="J3YNREXMNXppgQ1FyKUd" version="15.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-04T10:51:24.251Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="zL6XpTkiT2JEpOxTVp0P" version="15.0.6" type="github" pages="3">
   <diagram id="1yJmZetXlnlQOK-NrqrE" name="Page-1">
     <mxGraphModel dx="2821" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -452,7 +452,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mRZP5SDoiMo1xNdu_xye" name="Page-3">
-    <mxGraphModel dx="1652" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2203" dy="1048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="qrgFlBCPoqMtMjyajvtC-0" />
         <mxCell id="qrgFlBCPoqMtMjyajvtC-1" parent="qrgFlBCPoqMtMjyajvtC-0" />
@@ -783,6 +783,9 @@
         <mxCell id="pHFhEMLxa42LamPkkGx1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="pHFhEMLxa42LamPkkGx1-10" target="pHFhEMLxa42LamPkkGx1-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="1590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="1635" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pHFhEMLxa42LamPkkGx1-10" value="reminders for the training section &amp;nbsp;&lt;br&gt;(via mobile app)&lt;br&gt;time, schedule, for nth day&lt;br&gt;where n&amp;gt;1" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
@@ -794,13 +797,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pHFhEMLxa42LamPkkGx1-12" value="attendance check&lt;br&gt;(via mobile app)" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
-          <mxGeometry x="330" y="1594" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="1594" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pHFhEMLxa42LamPkkGx1-17" value="participants conduct &lt;br&gt;training at the site&amp;nbsp;&lt;br&gt;(health protocol in place)" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
           <mxGeometry x="600" y="1575" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pHFhEMLxa42LamPkkGx1-20" value="on no antigen &lt;br&gt;test day" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
-          <mxGeometry x="250" y="1550" width="90" height="30" as="geometry" />
+          <mxGeometry x="330" y="1545" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
