@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-04T01:51:54.694Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="EeNdtJgDT9XJcn-iRLmt" version="15.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-04T02:03:53.632Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="FtWVxRNssfbeNKg6Qjk1" version="15.0.6" type="github" pages="3">
   <diagram id="1yJmZetXlnlQOK-NrqrE" name="Page-1">
     <mxGraphModel dx="2821" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -477,8 +477,25 @@
         <mxCell id="q7Zai1xMJcCnybH4R3c1-2" value="Offering to participants to participate in the study" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
           <mxGeometry x="310" y="120" width="120" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="UecNJM2TDsKaeQGOu6n7-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="UecNJM2TDsKaeQGOu6n7-1" target="UecNJM2TDsKaeQGOu6n7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UecNJM2TDsKaeQGOu6n7-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;times new roman&amp;quot;; font-size: 14px; font-style: normal; font-weight: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); text-decoration: none; display: inline; float: none;&quot;&gt;Pre-treatment information collection &amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;times new roman&amp;quot;; font-size: 14px; font-style: normal; font-weight: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; text-decoration: none;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;times new roman&amp;quot;; font-size: 14px; font-style: normal; font-weight: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); text-decoration: none; display: inline; float: none;&quot;&gt;(the mobile App)&lt;/span&gt;" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
           <mxGeometry x="510" y="120" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UecNJM2TDsKaeQGOu6n7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="UecNJM2TDsKaeQGOu6n7-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UecNJM2TDsKaeQGOu6n7-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="UecNJM2TDsKaeQGOu6n7-3" target="UecNJM2TDsKaeQGOu6n7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UecNJM2TDsKaeQGOu6n7-3" value="participants choose their preferred training" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
+          <mxGeometry x="710" y="120" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UecNJM2TDsKaeQGOu6n7-7" value="Randomize the delivery" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
+          <mxGeometry x="940" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
