@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-04T11:18:20.793Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="CRM-t2HP6N6AoFR3pbtz" version="15.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-04T11:31:36.374Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="3MuP34AI_mMp19gPBDtv" version="15.0.6" type="github" pages="3">
   <diagram id="1yJmZetXlnlQOK-NrqrE" name="Page-1">
     <mxGraphModel dx="2821" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -716,10 +716,11 @@
         <mxCell id="_ZjT-fl3UeIRvDIm7zxC-31" value="A care package would be delieved to the participants in the self isolation area" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
           <mxGeometry x="969" y="1050" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pHFhEMLxa42LamPkkGx1-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="_ZjT-fl3UeIRvDIm7zxC-33" target="_ZjT-fl3UeIRvDIm7zxC-11">
+        <mxCell id="pHFhEMLxa42LamPkkGx1-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="_ZjT-fl3UeIRvDIm7zxC-33">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="945" y="795" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1345" y="773" />
+              <mxPoint x="1345" y="795" />
             </Array>
           </mxGeometry>
         </mxCell>
