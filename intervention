@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-04T12:05:21.475Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="jZsnlOi2FBlTqqUedbmo" version="15.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-04T12:06:09.301Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="jNeYMcB0gYnND_WZ5ret" version="15.0.6" type="github" pages="3">
   <diagram id="1yJmZetXlnlQOK-NrqrE" name="general design">
     <mxGraphModel dx="2821" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -652,7 +652,7 @@
         <mxCell id="_ZjT-fl3UeIRvDIm7zxC-9" value="pre-training test" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
           <mxGeometry x="400" y="877" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_ZjT-fl3UeIRvDIm7zxC-11" value="participants conduct training &lt;br&gt;as in status quo &lt;br&gt;(at the providers servers)" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
+        <mxCell id="_ZjT-fl3UeIRvDIm7zxC-11" value="participants conduct training &lt;br&gt;as in status quo &lt;br&gt;(at the providers servers)&lt;br&gt;(LMS)" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
           <mxGeometry x="745" y="847" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_ZjT-fl3UeIRvDIm7zxC-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="_ZjT-fl3UeIRvDIm7zxC-13" target="_ZjT-fl3UeIRvDIm7zxC-15">
