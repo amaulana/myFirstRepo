@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2021-09-04T11:39:11.331Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="h0QQmvb1wp0XIffVOfEv" version="15.0.6" type="github" pages="3">
-  <diagram id="1yJmZetXlnlQOK-NrqrE" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2021-09-04T11:52:08.253Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="F1VofnlFTbzp2zfffcVw" version="15.0.6" type="github" pages="3">
+  <diagram id="1yJmZetXlnlQOK-NrqrE" name="general design">
     <mxGraphModel dx="2821" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -306,7 +306,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="mXZIAI58zNpjoo96Fuv1" name="Page-2">
+  <diagram id="mXZIAI58zNpjoo96Fuv1" name="schedule ">
     <mxGraphModel dx="1652" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="_IwFJseoOi2Nyl7Fwe_q-0" />
@@ -451,7 +451,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="mRZP5SDoiMo1xNdu_xye" name="Page-3">
+  <diagram id="mRZP5SDoiMo1xNdu_xye" name="detailed scheme">
     <mxGraphModel dx="2203" dy="1048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="qrgFlBCPoqMtMjyajvtC-0" />
