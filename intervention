@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-04T05:00:21.746Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="YxQbzQ9-2OgP9kYV2FcZ" version="15.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-04T05:02:25.349Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="MgqTR2cmNriIiHIb4nui" version="15.0.6" type="github" pages="3">
   <diagram id="1yJmZetXlnlQOK-NrqrE" name="Page-1">
     <mxGraphModel dx="2821" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -616,14 +616,16 @@
         <mxCell id="9Nzzzi8rX5P6TIIi_tPR-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
           <mxGeometry x="340" y="314" width="50" height="366" as="geometry" />
         </mxCell>
-        <mxCell id="9Nzzzi8rX5P6TIIi_tPR-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="9Nzzzi8rX5P6TIIi_tPR-18" target="9Nzzzi8rX5P6TIIi_tPR-24">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="_ZjT-fl3UeIRvDIm7zxC-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="9Nzzzi8rX5P6TIIi_tPR-18" target="_ZjT-fl3UeIRvDIm7zxC-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="235" y="690" />
+              <mxPoint x="235" y="690" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="9Nzzzi8rX5P6TIIi_tPR-18" value="pre-training test&amp;nbsp;&lt;br&gt;(knowledge on the materials at the mobile app)" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
           <mxGeometry x="175" y="467" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9Nzzzi8rX5P6TIIi_tPR-24" value="Training delivery" style="ellipse;whiteSpace=wrap;html=1;align=left;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
-          <mxGeometry x="187.5" y="740" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_ZjT-fl3UeIRvDIm7zxC-0" value="R" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qrgFlBCPoqMtMjyajvtC-1">
           <mxGeometry x="640" y="390" as="geometry">
@@ -639,6 +641,12 @@
           <mxGeometry x="871" y="393" as="geometry">
             <mxPoint x="-290" y="195" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZjT-fl3UeIRvDIm7zxC-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
+          <mxGeometry x="620" y="600" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZjT-fl3UeIRvDIm7zxC-5" value="Training delivery" style="rhombus;whiteSpace=wrap;html=1;align=left;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
+          <mxGeometry x="182.5" y="750" width="105" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
