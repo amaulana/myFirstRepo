@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-05T13:00:29.570Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="gd1FyDkw-8vvKxpLiCeL" version="15.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-05T13:02:54.211Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="stbD2R1MsS0HHTDOU_8v" version="15.0.6" type="github" pages="3">
   <diagram id="1yJmZetXlnlQOK-NrqrE" name="general design">
     <mxGraphModel dx="2797" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -496,8 +496,7 @@
         <mxCell id="ODuO2oE44iFXHFWzfmDy-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="ODuO2oE44iFXHFWzfmDy-4" target="ODuO2oE44iFXHFWzfmDy-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="740" y="165" />
-              <mxPoint x="740" y="-60" />
+              <mxPoint x="740" y="-10" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -870,7 +869,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ODuO2oE44iFXHFWzfmDy-0" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Participants choose training&amp;nbsp;title with price and delivery options in the APP. Participants were given fix amount to spend&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
-          <mxGeometry x="850" y="-100" width="180" height="100" as="geometry" />
+          <mxGeometry x="850" y="-50" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ODuO2oE44iFXHFWzfmDy-4" value="Randomize &lt;br&gt;the menu" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
           <mxGeometry x="670" y="135" width="120" height="60" as="geometry" />
@@ -883,10 +882,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ODuO2oE44iFXHFWzfmDy-7" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Choose title where the vouchers is used fully&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;dashed=0;align=center;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
-          <mxGeometry x="1160" y="-100" width="160" height="100" as="geometry" />
+          <mxGeometry x="1169" y="-50" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ODuO2oE44iFXHFWzfmDy-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="ODuO2oE44iFXHFWzfmDy-9" target="ODuO2oE44iFXHFWzfmDy-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ODuO2oE44iFXHFWzfmDy-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="ODuO2oE44iFXHFWzfmDy-9" target="ODuO2oE44iFXHFWzfmDy-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1270" y="-300" />
+              <mxPoint x="1270" y="-463" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ODuO2oE44iFXHFWzfmDy-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="ODuO2oE44iFXHFWzfmDy-9" target="ODuO2oE44iFXHFWzfmDy-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1270" y="-160" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ODuO2oE44iFXHFWzfmDy-9" value="Some portion of the vouchers is used&amp;nbsp;" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
-          <mxGeometry x="1165" y="-350" width="150" height="100" as="geometry" />
+          <mxGeometry x="1110" y="-350" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ODuO2oE44iFXHFWzfmDy-11" value="Some portion of the vouchers is used&amp;nbsp;" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
+          <mxGeometry x="1395" y="-350" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ODuO2oE44iFXHFWzfmDy-13" value="Some portion of the vouchers is used&amp;nbsp;" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
+          <mxGeometry x="1395" y="-513.5" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ODuO2oE44iFXHFWzfmDy-15" value="Some portion of the vouchers is used&amp;nbsp;" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
+          <mxGeometry x="1395" y="-190" width="150" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
