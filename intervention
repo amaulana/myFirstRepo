@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-06T02:18:27.115Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="cqnvxa2gUlekszql4rwB" version="15.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-06T05:12:14.011Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="kJhYASbPTMEStH-yLqbW" version="15.0.6" type="github" pages="3">
   <diagram id="1yJmZetXlnlQOK-NrqrE" name="general design">
     <mxGraphModel dx="2555" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -449,7 +449,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mRZP5SDoiMo1xNdu_xye" name="detailed scheme">
-    <mxGraphModel dx="2772" dy="2399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3268" dy="2399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="qrgFlBCPoqMtMjyajvtC-0" />
         <mxCell id="qrgFlBCPoqMtMjyajvtC-1" parent="qrgFlBCPoqMtMjyajvtC-0" />
@@ -526,7 +526,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="720" y="390" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1050" y="390" />
+              <mxPoint x="1079" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
