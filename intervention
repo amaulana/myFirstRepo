@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-06T11:26:15.847Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="tmJoSx3xRGBujA-KP-WE" version="15.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-07T02:18:20.163Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="DtyEqj8oJrUg6bPRhTUT" version="15.1.0" type="github" pages="3">
   <diagram id="1yJmZetXlnlQOK-NrqrE" name="general design">
-    <mxGraphModel dx="2555" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2821" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -449,7 +449,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mRZP5SDoiMo1xNdu_xye" name="detailed scheme">
-    <mxGraphModel dx="1674" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2203" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="qrgFlBCPoqMtMjyajvtC-0" />
         <mxCell id="qrgFlBCPoqMtMjyajvtC-1" parent="qrgFlBCPoqMtMjyajvtC-0" />
@@ -870,7 +870,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="07syWpiHfBlDtQaFENdo-2" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="ODuO2oE44iFXHFWzfmDy-0">
+        <mxCell id="07syWpiHfBlDtQaFENdo-2" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="qrgFlBCPoqMtMjyajvtC-1" source="ODuO2oE44iFXHFWzfmDy-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="110" as="targetPoint" />
             <Array as="points">
@@ -882,7 +882,7 @@
         <mxCell id="ODuO2oE44iFXHFWzfmDy-0" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Participants choose training&amp;nbsp;title with price and delivery options in the APP. Participants were given fix amount to spend&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;dashed=0;" parent="qrgFlBCPoqMtMjyajvtC-1" vertex="1">
           <mxGeometry x="850" y="-50" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="07syWpiHfBlDtQaFENdo-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="ODuO2oE44iFXHFWzfmDy-4" target="UecNJM2TDsKaeQGOu6n7-1">
+        <mxCell id="07syWpiHfBlDtQaFENdo-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="qrgFlBCPoqMtMjyajvtC-1" source="ODuO2oE44iFXHFWzfmDy-4" target="UecNJM2TDsKaeQGOu6n7-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ODuO2oE44iFXHFWzfmDy-4" value="Randomize &lt;br&gt;the menu" style="whiteSpace=wrap;html=1;dashed=0;" parent="qrgFlBCPoqMtMjyajvtC-1" vertex="1">
@@ -945,9 +945,7 @@
               <mxPoint x="1660" y="-670" />
               <mxPoint x="60" y="-670" />
               <mxPoint x="60" y="892" />
-              <mxPoint x="150" y="892" />
-              <mxPoint x="150" y="890" />
-              <mxPoint x="160" y="890" />
+              <mxPoint x="160" y="892" />
               <mxPoint x="160" y="892" />
             </Array>
           </mxGeometry>
