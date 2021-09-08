@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-07T10:50:22.558Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="t19Ml4ss5rbGp8IxCns5" version="15.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-08T05:29:11.946Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="VZbB_-IBNisn0bdk3FzY" version="15.1.1" type="github" pages="3">
   <diagram id="1yJmZetXlnlQOK-NrqrE" name="general design">
-    <mxGraphModel dx="2821" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2341" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -449,7 +449,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mRZP5SDoiMo1xNdu_xye" name="detailed scheme">
-    <mxGraphModel dx="2203" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1172" dy="1613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="qrgFlBCPoqMtMjyajvtC-0" />
         <mxCell id="qrgFlBCPoqMtMjyajvtC-1" parent="qrgFlBCPoqMtMjyajvtC-0" />
@@ -500,7 +500,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JJaFU_ZoXNjlHR0-VMsE-0" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ODuO2oE44iFXHFWzfmDy-1">
+        <mxCell id="JJaFU_ZoXNjlHR0-VMsE-0" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ODuO2oE44iFXHFWzfmDy-1" vertex="1" connectable="0">
           <mxGeometry x="-0.5221" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -524,7 +524,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EKVscVgc-Ezs2bebrJgL-1" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.582;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="UecNJM2TDsKaeQGOu6n7-3" target="q7Zai1xMJcCnybH4R3c1-0">
+        <mxCell id="EKVscVgc-Ezs2bebrJgL-1" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.582;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" parent="qrgFlBCPoqMtMjyajvtC-1" source="UecNJM2TDsKaeQGOu6n7-3" target="q7Zai1xMJcCnybH4R3c1-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="940" y="100" />
@@ -641,11 +641,6 @@
         <mxCell id="_ZjT-fl3UeIRvDIm7zxC-0" value="R" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qrgFlBCPoqMtMjyajvtC-1" vertex="1" connectable="0">
           <mxGeometry x="640" y="390" as="geometry">
             <mxPoint x="-52" y="2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_ZjT-fl3UeIRvDIm7zxC-2" value="R" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qrgFlBCPoqMtMjyajvtC-1" vertex="1" connectable="0">
-          <mxGeometry x="861" y="383" as="geometry">
-            <mxPoint x="-303" y="99" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_ZjT-fl3UeIRvDIm7zxC-3" value="R" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qrgFlBCPoqMtMjyajvtC-1" vertex="1" connectable="0">
@@ -871,7 +866,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EKVscVgc-Ezs2bebrJgL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="pHFhEMLxa42LamPkkGx1-45" target="EKVscVgc-Ezs2bebrJgL-2">
+        <mxCell id="EKVscVgc-Ezs2bebrJgL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="qrgFlBCPoqMtMjyajvtC-1" source="pHFhEMLxa42LamPkkGx1-45" target="EKVscVgc-Ezs2bebrJgL-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pHFhEMLxa42LamPkkGx1-45" value="on the last day, post-training test is distributed&amp;nbsp;&lt;br&gt;Participants need to provide. Before the post test, rating and review on the course need to be record" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;" parent="qrgFlBCPoqMtMjyajvtC-1" vertex="1">
@@ -911,7 +906,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EKVscVgc-Ezs2bebrJgL-4" value="x" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ODuO2oE44iFXHFWzfmDy-23">
+        <mxCell id="EKVscVgc-Ezs2bebrJgL-4" value="x" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ODuO2oE44iFXHFWzfmDy-23" vertex="1" connectable="0">
           <mxGeometry x="0.0027" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -968,7 +963,7 @@
         <mxCell id="ODuO2oE44iFXHFWzfmDy-20" value="If the voucher is depleted then END" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;" parent="qrgFlBCPoqMtMjyajvtC-1" vertex="1">
           <mxGeometry x="350" y="1974" width="170" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="EKVscVgc-Ezs2bebrJgL-2" value="If the voucher still available, then participants could buy another training" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
+        <mxCell id="EKVscVgc-Ezs2bebrJgL-2" value="If the voucher still available, then participants could buy another training" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;" parent="qrgFlBCPoqMtMjyajvtC-1" vertex="1">
           <mxGeometry x="620" y="2123" width="170" height="93" as="geometry" />
         </mxCell>
       </root>
