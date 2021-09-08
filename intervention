@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-08T12:35:11.258Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="By0rZ8gKWhSDzkaiEbdd" version="15.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-08T12:37:07.581Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="Anq-YpiM_XWvqEad9C9P" version="15.1.1" type="github" pages="3">
   <diagram id="1yJmZetXlnlQOK-NrqrE" name="general design">
     <mxGraphModel dx="2341" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -853,12 +853,13 @@
         <mxCell id="ODuO2oE44iFXHFWzfmDy-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="qrgFlBCPoqMtMjyajvtC-1" source="pHFhEMLxa42LamPkkGx1-45" target="ODuO2oE44iFXHFWzfmDy-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ODuO2oE44iFXHFWzfmDy-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="qrgFlBCPoqMtMjyajvtC-1" source="EKVscVgc-Ezs2bebrJgL-2" target="ODuO2oE44iFXHFWzfmDy-7" edge="1">
+        <mxCell id="ODuO2oE44iFXHFWzfmDy-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="qrgFlBCPoqMtMjyajvtC-1" source="EKVscVgc-Ezs2bebrJgL-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1470" y="2170" />
               <mxPoint x="1470" y="-15" />
             </Array>
+            <mxPoint x="1310" y="-15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EKVscVgc-Ezs2bebrJgL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="qrgFlBCPoqMtMjyajvtC-1" source="pHFhEMLxa42LamPkkGx1-45" target="EKVscVgc-Ezs2bebrJgL-2" edge="1">
@@ -866,9 +867,6 @@
         </mxCell>
         <mxCell id="pHFhEMLxa42LamPkkGx1-45" value="on the last day, post-training test is distributed&amp;nbsp;&lt;br&gt;Participants need to provide. Before the post test, rating and review on the course need to be record" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;" parent="qrgFlBCPoqMtMjyajvtC-1" vertex="1">
           <mxGeometry x="620" y="1950" width="170" height="93" as="geometry" />
-        </mxCell>
-        <mxCell id="ODuO2oE44iFXHFWzfmDy-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="qrgFlBCPoqMtMjyajvtC-1" source="ODuO2oE44iFXHFWzfmDy-0" target="ODuO2oE44iFXHFWzfmDy-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ODuO2oE44iFXHFWzfmDy-10" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="qrgFlBCPoqMtMjyajvtC-1" source="ODuO2oE44iFXHFWzfmDy-0" target="ODuO2oE44iFXHFWzfmDy-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -886,28 +884,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="cplX2pC7O-da74PGZhnN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="ODuO2oE44iFXHFWzfmDy-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220" y="-270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ODuO2oE44iFXHFWzfmDy-0" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;TREATMENT A:&amp;nbsp;&lt;br&gt;Participants choose training&amp;nbsp;title with price and delivery options in the APP. Participants were given fix amount to spend&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;(like status quo, but with bigger amount and adding deliveries)&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;dashed=0;" parent="qrgFlBCPoqMtMjyajvtC-1" vertex="1">
           <mxGeometry x="850" y="-100" width="180" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ODuO2oE44iFXHFWzfmDy-4" value="Randomize " style="whiteSpace=wrap;html=1;dashed=0;" parent="qrgFlBCPoqMtMjyajvtC-1" vertex="1">
           <mxGeometry x="690" y="120" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ODuO2oE44iFXHFWzfmDy-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="qrgFlBCPoqMtMjyajvtC-1" source="ODuO2oE44iFXHFWzfmDy-7" edge="1">
+        <mxCell id="ODuO2oE44iFXHFWzfmDy-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="qrgFlBCPoqMtMjyajvtC-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1270" y="-300" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1220" y="-110" />
               <mxPoint x="1220" y="-110" />
             </Array>
+            <mxPoint x="1220.066666666667" y="-65" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EKVscVgc-Ezs2bebrJgL-4" value="x" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ODuO2oE44iFXHFWzfmDy-23" vertex="1" connectable="0">
-          <mxGeometry x="0.0027" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="cplX2pC7O-da74PGZhnN-0" value="all training voucher &lt;br&gt;is used for one training" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ODuO2oE44iFXHFWzfmDy-23">
+          <mxGeometry x="-0.1435" relative="1" as="geometry">
+            <mxPoint y="86" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ODuO2oE44iFXHFWzfmDy-7" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;The title is selected with zero remaining credit&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;dashed=0;align=center;" parent="qrgFlBCPoqMtMjyajvtC-1" vertex="1">
-          <mxGeometry x="1150" y="-65" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ODuO2oE44iFXHFWzfmDy-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="qrgFlBCPoqMtMjyajvtC-1" source="ODuO2oE44iFXHFWzfmDy-9" target="ODuO2oE44iFXHFWzfmDy-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
