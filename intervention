@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-08T05:49:57.350Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="vCeSzkNvraOiLTPQQ4d2" version="15.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-08T12:35:11.258Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="By0rZ8gKWhSDzkaiEbdd" version="15.1.1" type="github" pages="3">
   <diagram id="1yJmZetXlnlQOK-NrqrE" name="general design">
     <mxGraphModel dx="2341" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -449,7 +449,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mRZP5SDoiMo1xNdu_xye" name="detailed scheme">
-    <mxGraphModel dx="1476" dy="1613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2179" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="qrgFlBCPoqMtMjyajvtC-0" />
         <mxCell id="qrgFlBCPoqMtMjyajvtC-1" parent="qrgFlBCPoqMtMjyajvtC-0" />
@@ -515,7 +515,7 @@
             <mxPoint x="720" y="220" as="targetPoint" />
             <Array as="points">
               <mxPoint x="990" y="250" />
-              <mxPoint x="890" y="250" />
+              <mxPoint x="900" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -527,8 +527,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UecNJM2TDsKaeQGOu6n7-3" value="participants choose their title from the &amp;nbsp;menu, all training has the same quality/price professionally judged" style="whiteSpace=wrap;html=1;dashed=0;" parent="qrgFlBCPoqMtMjyajvtC-1" vertex="1">
-          <mxGeometry x="850" y="120" width="180" height="90" as="geometry" />
+        <mxCell id="UecNJM2TDsKaeQGOu6n7-3" value="TREATMENT B&lt;br&gt;participants choose their only title from the menu, price and delivery modes are absent from the menu.&amp;nbsp;" style="whiteSpace=wrap;html=1;dashed=0;" parent="qrgFlBCPoqMtMjyajvtC-1" vertex="1">
+          <mxGeometry x="850" y="120" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="OkVzqAQlf7Hh69Mqi1Rg-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="qrgFlBCPoqMtMjyajvtC-1" source="UecNJM2TDsKaeQGOu6n7-7" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -857,7 +857,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1470" y="2170" />
-              <mxPoint x="1470" />
+              <mxPoint x="1470" y="-15" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -881,13 +881,13 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="110" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="900" y="-100" />
-              <mxPoint x="200" y="-100" />
+              <mxPoint x="910" y="-110" />
+              <mxPoint x="200" y="-110" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ODuO2oE44iFXHFWzfmDy-0" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Participants choose training&amp;nbsp;title with price and delivery options in the APP. Participants were given fix amount to spend&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;(like status quo, but with bigger amount and adding deliveries)&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;dashed=0;" parent="qrgFlBCPoqMtMjyajvtC-1" vertex="1">
-          <mxGeometry x="850" y="-70" width="180" height="140" as="geometry" />
+        <mxCell id="ODuO2oE44iFXHFWzfmDy-0" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;TREATMENT A:&amp;nbsp;&lt;br&gt;Participants choose training&amp;nbsp;title with price and delivery options in the APP. Participants were given fix amount to spend&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;(like status quo, but with bigger amount and adding deliveries)&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;dashed=0;" parent="qrgFlBCPoqMtMjyajvtC-1" vertex="1">
+          <mxGeometry x="850" y="-100" width="180" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ODuO2oE44iFXHFWzfmDy-4" value="Randomize " style="whiteSpace=wrap;html=1;dashed=0;" parent="qrgFlBCPoqMtMjyajvtC-1" vertex="1">
           <mxGeometry x="690" y="120" width="100" height="90" as="geometry" />
@@ -907,7 +907,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ODuO2oE44iFXHFWzfmDy-7" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;The title is selected with zero remaining credit&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;dashed=0;align=center;" parent="qrgFlBCPoqMtMjyajvtC-1" vertex="1">
-          <mxGeometry x="1150" y="-50" width="160" height="100" as="geometry" />
+          <mxGeometry x="1150" y="-65" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ODuO2oE44iFXHFWzfmDy-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="qrgFlBCPoqMtMjyajvtC-1" source="ODuO2oE44iFXHFWzfmDy-9" target="ODuO2oE44iFXHFWzfmDy-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
