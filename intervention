@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T05:36:45.972Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="da1J5aBWUeY97soXmWJe" version="15.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-09T05:41:36.916Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="0JsOAw-S9_g89z8gYhju" version="15.0.6" type="github" pages="3">
   <diagram id="1yJmZetXlnlQOK-NrqrE" name="general design">
     <mxGraphModel dx="2341" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -866,7 +866,7 @@
         <mxCell id="ODuO2oE44iFXHFWzfmDy-10" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="qrgFlBCPoqMtMjyajvtC-1" source="ODuO2oE44iFXHFWzfmDy-0" target="ODuO2oE44iFXHFWzfmDy-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="940" y="-210" />
+              <mxPoint x="940" y="-180" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -879,9 +879,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="L56YH543Ne8Y-LHCFRAQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="ODuO2oE44iFXHFWzfmDy-0">
+        <mxCell id="L56YH543Ne8Y-LHCFRAQ-2" value="all training voucher&amp;nbsp;&lt;br&gt;is used for one training" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="ODuO2oE44iFXHFWzfmDy-0">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1220" y="-200" as="targetPoint" />
+            <mxPoint x="1220" y="-180" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1220" y="30" />
             </Array>
@@ -893,67 +893,48 @@
         <mxCell id="ODuO2oE44iFXHFWzfmDy-4" value="Randomize " style="whiteSpace=wrap;html=1;dashed=0;" parent="qrgFlBCPoqMtMjyajvtC-1" vertex="1">
           <mxGeometry x="690" y="120" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ODuO2oE44iFXHFWzfmDy-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="qrgFlBCPoqMtMjyajvtC-1" edge="1" target="ODuO2oE44iFXHFWzfmDy-11">
+        <mxCell id="L56YH543Ne8Y-LHCFRAQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="ODuO2oE44iFXHFWzfmDy-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1270" y="-240" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1220" y="-204" />
-            </Array>
-            <mxPoint x="1220.066666666667" y="-5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cplX2pC7O-da74PGZhnN-0" value="all training voucher &lt;br&gt;is used for one training" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ODuO2oE44iFXHFWzfmDy-23" vertex="1" connectable="0">
-          <mxGeometry x="-0.1435" relative="1" as="geometry">
-            <mxPoint y="127" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ODuO2oE44iFXHFWzfmDy-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="qrgFlBCPoqMtMjyajvtC-1" source="ODuO2oE44iFXHFWzfmDy-9" target="ODuO2oE44iFXHFWzfmDy-13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1270" y="-204" />
-              <mxPoint x="1270" y="-334" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ODuO2oE44iFXHFWzfmDy-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="qrgFlBCPoqMtMjyajvtC-1" source="ODuO2oE44iFXHFWzfmDy-9" target="ODuO2oE44iFXHFWzfmDy-15" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1270" y="-200" />
-              <mxPoint x="1270" y="-70" />
-            </Array>
+            <mxPoint x="1310" y="-175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ODuO2oE44iFXHFWzfmDy-9" value="Some portion of the vouchers is used&amp;nbsp;" style="whiteSpace=wrap;html=1;dashed=0;" parent="qrgFlBCPoqMtMjyajvtC-1" vertex="1">
-          <mxGeometry x="980" y="-254" width="150" height="100" as="geometry" />
+          <mxGeometry x="980" y="-210" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ODuO2oE44iFXHFWzfmDy-11" value="Blended" style="whiteSpace=wrap;html=1;dashed=0;" parent="qrgFlBCPoqMtMjyajvtC-1" vertex="1">
-          <mxGeometry x="1360" y="-254" width="150" height="100" as="geometry" />
+          <mxGeometry x="1360" y="-200" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ODuO2oE44iFXHFWzfmDy-13" value="LMS" style="whiteSpace=wrap;html=1;dashed=0;" parent="qrgFlBCPoqMtMjyajvtC-1" vertex="1">
-          <mxGeometry x="1360" y="-384" width="150" height="100" as="geometry" />
+          <mxGeometry x="1360" y="-290" width="150" height="56" as="geometry" />
         </mxCell>
         <mxCell id="ODuO2oE44iFXHFWzfmDy-15" value="Full offline" style="whiteSpace=wrap;html=1;dashed=0;" parent="qrgFlBCPoqMtMjyajvtC-1" vertex="1">
-          <mxGeometry x="1360" y="-124" width="150" height="100" as="geometry" />
+          <mxGeometry x="1360" y="-110" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ODuO2oE44iFXHFWzfmDy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="qrgFlBCPoqMtMjyajvtC-1" source="ODuO2oE44iFXHFWzfmDy-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="500" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1660" y="-202" />
-              <mxPoint x="1660" y="-420" />
-              <mxPoint x="60" y="-420" />
+              <mxPoint x="1660" y="-175" />
+              <mxPoint x="1660" y="-330" />
+              <mxPoint x="60" y="-330" />
               <mxPoint x="60" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ODuO2oE44iFXHFWzfmDy-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" parent="qrgFlBCPoqMtMjyajvtC-1" vertex="1">
-          <mxGeometry x="1550" y="-360" width="20" height="316" as="geometry" />
+          <mxGeometry x="1550" y="-280" width="20" height="210" as="geometry" />
         </mxCell>
         <mxCell id="ODuO2oE44iFXHFWzfmDy-20" value="If the voucher is depleted then END" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;" parent="qrgFlBCPoqMtMjyajvtC-1" vertex="1">
           <mxGeometry x="350" y="1974" width="170" height="45" as="geometry" />
         </mxCell>
         <mxCell id="EKVscVgc-Ezs2bebrJgL-2" value="If the voucher still available, then participants could buy another training" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;" parent="qrgFlBCPoqMtMjyajvtC-1" vertex="1">
           <mxGeometry x="620" y="2123" width="170" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="L56YH543Ne8Y-LHCFRAQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="ODuO2oE44iFXHFWzfmDy-13" target="ODuO2oE44iFXHFWzfmDy-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L56YH543Ne8Y-LHCFRAQ-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
+          <mxGeometry x="1310" y="-275" width="20" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
