@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T06:00:04.622Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="rfMc4jzdS8SPPTJrfIoj" version="15.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-09T06:02:55.641Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="wWYAGn56mR1HQ2QbtDaM" version="15.0.6" type="github" pages="3">
   <diagram id="1yJmZetXlnlQOK-NrqrE" name="general design">
     <mxGraphModel dx="2341" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -864,11 +864,12 @@
           <mxGeometry x="620" y="1950" width="170" height="93" as="geometry" />
         </mxCell>
         <mxCell id="ODuO2oE44iFXHFWzfmDy-10" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Some portion of the vouchers is used&amp;nbsp;&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="qrgFlBCPoqMtMjyajvtC-1" source="ODuO2oE44iFXHFWzfmDy-0" edge="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.5385" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="940" y="-170" />
+              <mxPoint x="940" y="-160" />
             </Array>
-            <mxPoint x="1130" y="-170" as="targetPoint" />
+            <mxPoint x="1130" y="-160" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="07syWpiHfBlDtQaFENdo-2" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="qrgFlBCPoqMtMjyajvtC-1" source="ODuO2oE44iFXHFWzfmDy-0" edge="1">
@@ -882,7 +883,7 @@
         </mxCell>
         <mxCell id="L56YH543Ne8Y-LHCFRAQ-2" value="training voucher&amp;nbsp;&lt;br&gt;is used for one training" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="ODuO2oE44iFXHFWzfmDy-0">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1220" y="-180" as="targetPoint" />
+            <mxPoint x="1220" y="-160" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1220" y="30" />
             </Array>
@@ -896,8 +897,8 @@
         </mxCell>
         <mxCell id="L56YH543Ne8Y-LHCFRAQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1310" y="-170.83" as="targetPoint" />
-            <mxPoint x="1130" y="-170.83" as="sourcePoint" />
+            <mxPoint x="1310" y="-160.83" as="targetPoint" />
+            <mxPoint x="1130" y="-160.83" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ODuO2oE44iFXHFWzfmDy-11" value="Blended" style="whiteSpace=wrap;html=1;dashed=0;" parent="qrgFlBCPoqMtMjyajvtC-1" vertex="1">
@@ -933,7 +934,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L56YH543Ne8Y-LHCFRAQ-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="qrgFlBCPoqMtMjyajvtC-1">
-          <mxGeometry x="1310" y="-250" width="20" height="175" as="geometry" />
+          <mxGeometry x="1310" y="-247.5" width="20" height="175" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
