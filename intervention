@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T05:58:51.869Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="PkH1TMFmkHDXgB8GBQ7r" version="15.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-09T06:00:04.622Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="rfMc4jzdS8SPPTJrfIoj" version="15.0.6" type="github" pages="3">
   <diagram id="1yJmZetXlnlQOK-NrqrE" name="general design">
     <mxGraphModel dx="2341" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -880,7 +880,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="L56YH543Ne8Y-LHCFRAQ-2" value="all training voucher&amp;nbsp;&lt;br&gt;is used for one training" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="ODuO2oE44iFXHFWzfmDy-0">
+        <mxCell id="L56YH543Ne8Y-LHCFRAQ-2" value="training voucher&amp;nbsp;&lt;br&gt;is used for one training" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrgFlBCPoqMtMjyajvtC-1" source="ODuO2oE44iFXHFWzfmDy-0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1220" y="-180" as="targetPoint" />
             <Array as="points">
