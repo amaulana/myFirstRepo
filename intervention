@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-15T04:02:24.207Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="inugetmw_fO90MbvWRDW" version="15.1.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-15T04:05:51.337Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="LmQdPU85BoIlw28COX0O" version="15.1.2" type="github" pages="4">
   <diagram id="1yJmZetXlnlQOK-NrqrE" name="general design">
     <mxGraphModel dx="2101" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -981,6 +981,15 @@
         </mxCell>
         <mxCell id="IwJHVRgLn_iqR5L24aIw-21" value="Blended" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=26;" vertex="1" parent="H4R-Y_YxELitYrx5Ac9y-1">
           <mxGeometry x="620" y="162" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IwJHVRgLn_iqR5L24aIw-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="H4R-Y_YxELitYrx5Ac9y-1" source="IwJHVRgLn_iqR5L24aIw-23" target="IwJHVRgLn_iqR5L24aIw-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IwJHVRgLn_iqR5L24aIw-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" vertex="1" parent="H4R-Y_YxELitYrx5Ac9y-1">
+          <mxGeometry x="780" y="102" width="20" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="IwJHVRgLn_iqR5L24aIw-24" value="&lt;div style=&quot;text-align: justify&quot;&gt;Incentive:&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;ul&gt;&lt;li&gt;Transportation Cost&lt;br&gt;&lt;/li&gt;&lt;li&gt;Communication/Data related cost&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="H4R-Y_YxELitYrx5Ac9y-1">
+          <mxGeometry x="830" y="150" width="250" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
