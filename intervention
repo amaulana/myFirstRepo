@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-15T04:13:37.405Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="v76155QrWmtBTd2-1acv" version="15.1.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-15T04:46:25.273Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="9AV_nlqWCwx-8UVDoUMY" version="15.1.2" type="github" pages="4">
   <diagram id="1yJmZetXlnlQOK-NrqrE" name="general design">
     <mxGraphModel dx="2101" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -961,7 +961,7 @@
         <mxCell id="IwJHVRgLn_iqR5L24aIw-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="H4R-Y_YxELitYrx5Ac9y-1" source="IwJHVRgLn_iqR5L24aIw-5" target="IwJHVRgLn_iqR5L24aIw-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IwJHVRgLn_iqR5L24aIw-5" value="Activity 1: choose &#xa;from the menu" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="H4R-Y_YxELitYrx5Ac9y-1">
+        <mxCell id="IwJHVRgLn_iqR5L24aIw-5" value="Activity 2: choose &#xa;from the menu" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="H4R-Y_YxELitYrx5Ac9y-1">
           <mxGeometry x="330" y="140" width="170" height="104" as="geometry" />
         </mxCell>
         <mxCell id="IwJHVRgLn_iqR5L24aIw-6" value="Training#1: price, delivery" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="IwJHVRgLn_iqR5L24aIw-5">
